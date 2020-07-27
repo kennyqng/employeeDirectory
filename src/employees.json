@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Scott, Michael",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png",
+    "occupation": "Regional Manager",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Management"
+  },
+  {
+    "id": 2,
+    "name": "Levinson, Jan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Melora_Hardin_as_Jan_Levinson.png/250px-Melora_Hardin_as_Jan_Levinson.png",
+    "occupation": "Assistant to the Regional Manager",
+    "location": "Dunder Mifflin Headquarter, New York, NY",
+    "phone": "(272) 234-6789",
+    "position": "Management"
+  },
+  {
+    "id": 3,
+    "name": "Halpert, Jim",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Jim-halpert.jpg/220px-Jim-halpert.jpg",
+    "occupation": "Sales Representative,",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+
+  },
+  {
+    "id": 4,
+    "name": "Beesly, Pam",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Pam_Beesley.jpg/220px-Pam_Beesley.jpg",
+    "occupation": "Receptionist",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+
+  },
+  {
+    "id": 5,
+    "name": "Flenderson, Toby",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Toby_Flenderson_promo_picture.jpg",
+    "occupation": "Human Resources Representative",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Management"
+  },
+  {
+    "id": 6,
+    "name": "Martinez, Oscar",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Oscar_Martinez_of_The_Office.jpg/250px-Oscar_Martinez_of_The_Office.jpg",
+    "occupation": "Accountant",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  },
+  {
+    "id": 7,
+    "name": "Wallace, David",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/David_Wallace_%28The_Office%29.jpg/250px-David_Wallace_%28The_Office%29.jpg",
+    "occupation": "CEO",
+    "location": "Dunder Mifflin Headquarter, New York, NY",
+    "phone": "(272) 234-6789",
+    "position": "Management"
+  },
+  {
+    "id": 8,
+    "name": "Bernard, Andy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Andy_Bernard_photoshot.jpg/250px-Andy_Bernard_photoshot.jpg",
+    "occupation": "Regional Director in Charge of Sales",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  },
+  {
+    "id": 9,
+    "name": "Hudson, Stanley",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Stanley_Hudson.jpg/245px-Stanley_Hudson.jpg",
+    "occupation": "Sales Representative",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  },
+  {
+    "id": 10,
+    "name": "Kapoor, Kelly",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/69/Kelly_Kapoor.jpg",
+    "occupation": "Customer service representative,",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  },
+  {
+    "id": 11,
+    "name": "Philbin, Darryl",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/65/DarrylPhilbin.jpg",
+    "occupation": "Warehouse foreman",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  },
+  {
+    "id": 12,
+    "name": "Martin, Angela",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Angela_Martin.jpg/230px-Angela_Martin.jpg",
+    "occupation": "Accountant",
+    "location": "Dunder Mifflin, Scranton, PA",
+    "phone": "(570) 234-6789",
+    "position": "Worker"
+  }
+]
